@@ -1,4 +1,4 @@
-**VHDL-KEYBOARD**
+**VHDL-NOTE_GAME**
 
 This is a hardware description for a music note game in VHDL. The repo was originally created to store my school assignment but I also figured someone else might have a use for this.
 
